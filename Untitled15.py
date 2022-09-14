@@ -34,6 +34,7 @@
       },
       "outputs": [],
       "source": [
+        "import streamlit as st",
         "import pandas as pd \n",
         "import numpy as np\n",
         "import matplotlib.pyplot as plt\n",
