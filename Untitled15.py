@@ -45,7 +45,7 @@
         "from sklearn.cluster import KMeans\n",
         "from sklearn.preprocessing import StandardScaler\n",
         "\n",
-        "df = pd.csv.reader("mall_customer.csv\")"
+        "df = csv.reader("mall_customer.csv\")"
       ]
     },
     {
