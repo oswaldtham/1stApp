@@ -44,7 +44,7 @@
         "from sklearn.cluster import KMeans\n",
         "from sklearn.preprocessing import StandardScaler\n",
         "\n",
-        "df = pd.read_csv("mall_customer.csv\")"
+        "df = pd.read_csv("https://github.com/oswaldtham/1stApp/blob/main/mall_customer.csv\")"
       ]
     },
     {
